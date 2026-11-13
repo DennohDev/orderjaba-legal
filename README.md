@@ -25,10 +25,10 @@ Admin → Business Settings → Terms &amp; Privacy so the `/config` API serves 
 
 ## Contact details used
 
-Contact is listed as **OrderJaba, Nairobi, Kenya**, email **support@orderjaba.co.ke**, and the
-M-Pesa Till **3342130** (matches the app checkout). If you register a formal company name, add a
-phone number, or change the support email, update both `privacy.html` and `terms.html` and re-push —
-Pages redeploys automatically.
+Contact is listed as **OrderJaba, Nairobi, Kenya**, email **orderjaba@gmail.com**, phone
+**+254 704 180224**, and the M-Pesa Till **3342130** (matches the app checkout). If you register a
+formal company name or change contact details, update both `privacy.html` and `terms.html` and
+re-push — Pages redeploys automatically.
 
 ## Updating
 
